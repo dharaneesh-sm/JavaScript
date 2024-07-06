@@ -1,0 +1,23 @@
+#value{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+    font-family: helvetica;
+}
+
+.BtnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: aliceblue;
+    background-color:darkred;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.75s;
+}
+.buttons:hover{
+    background-color: lightcoral; 
+}
